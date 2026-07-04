@@ -1,3 +1,4 @@
-This repo is created for practitioners reading "Data Science for Business". 
-Inspired from knowledge from this book, want to add a repo storing codes for better illustrating theory in practice.
-Further, this repo could be a starting point for more real-life approaches in selecting metrics for evaluating feature information to be chosen in model development.
+A hands-on companion to Data Science for Business, built for practitioners who want to go beyond the theory. 
+
+This repository implements and extends concepts from the book — highlighting where textbook assumptions break down in practice, 
+and exploring more robust approaches to feature selection and evaluation metrics for real-world model development.
